@@ -70,7 +70,7 @@ const CoinCard: React.FC<CoinCardProps> = ({
     <div
       className="bg-slate-800/80 border border-slate-700 rounded-xl 
              p-6 flex flex-col gap-6 
-             w-full sm:w-[480px] 
+             w-96 sm:w-[480px] 
              hover:bg-slate-700 transition-colors duration-300 
              backdrop-blur font-[Vazirmatn]"
     >
